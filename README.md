@@ -9,4 +9,4 @@ Tech Stack
 
 My Top Projects <br/>
 ---------------------------------------------------------------------------------------------------------------------------------
-<a href="https://thunderous-lollipop-31c370.netlify.app/"><img height="30px" width="100px" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/Koovs_2.jpeg/revision/latest?cb=20200417140438"></a>
+<a href="https://thunderous-lollipop-31c370.netlify.app/"><img height="25px" width="80px" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/Koovs_2.jpeg/revision/latest?cb=20200417140438"></a>
