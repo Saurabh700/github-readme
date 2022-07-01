@@ -13,4 +13,4 @@ Hi I'm Saurabh Patel
 
 <em>Let's Connect</em>
 ---------------------------------------------------------------------------------------------------------------------------------
-<a href="https://thunderous-lollipop-31c370.netlify.app/](https://www.linkedin.com/in/saurabh-patel-5586141a3/"><img height="25px" width="80px" src="https://www.goshen.edu/wp-content/uploads/sites/60/2012/05/LinkedIn-Logo.png"></a>
+<a href="https://www.linkedin.com/in/saurabh-patel-5586141a3/"><img height="25px" width="80px" src="https://www.goshen.edu/wp-content/uploads/sites/60/2012/05/LinkedIn-Logo.png"></a>
