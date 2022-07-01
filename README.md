@@ -13,4 +13,4 @@ Hi I'm Saurabh Patel
 
 <em>Let's Connect</em>
 ---------------------------------------------------------------------------------------------------------------------------------
-<a href="https://thunderous-lollipop-31c370.netlify.app/](https://www.linkedin.com/in/saurabh-patel-5586141a3/"><img height="25px" width="80px" src="[[https://static.wikia.nocookie.net/logopedia/images/8/8a/Koovs_2.jpeg/revision/latest?cb=20200417140438](https://www.goshen.edu/wp-content/uploads/sites/60/2012/05/LinkedIn-Logo.png](https://www.goshen.edu/wp-content/uploads/sites/60/2012/05/LinkedIn-Logo.png)](https://www.veloceinternational.com/wp-content/uploads/2019/07/LinkedIn-Builds-on-Content-Marketing-Ad-Tools.png)"></a>
+<a href="https://thunderous-lollipop-31c370.netlify.app/](https://www.linkedin.com/in/saurabh-patel-5586141a3/"><img height="25px" width="80px" src="https://www.veloceinternational.com/wp-content/uploads/2019/07/LinkedIn-Builds-on-Content-Marketing-Ad-Tools.png"></a>
